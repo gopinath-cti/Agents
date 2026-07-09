@@ -1,0 +1,80 @@
+Third‑Party / Supply Chain / Material Vendor Intelligence Update
+
+IMPORTANT:
+Use ONLY publicly available, external sources.
+Do NOT use Microsoft 365 work data, Outlook emails, Teams messages, SharePoint files, or any internal/proprietary CTI.
+
+SOURCES ALLOWED (public only):
+- Official vendor-originated intelligence
+- Official vendor-issued phishing/brand-abuse alerts
+- Official vendor websites, Public security or incident disclosure pages, Vendor status pages, Vendor technical/security blogs, including phishing or any cyber alerts
+- Vendor public status pages or social media handles notification, Verified vendor social media accounts (X / LinkedIn and others), including phishing or any cyber alerts
+- Any reputable cybersecurity or threat intel news outlets with technical substance
+- Any independent technical research blog with evidence
+- Any reputable public security research blogs
+- Any public screenshots / samples linked in reports
+- Any public ransomware leak site reporting and public trackers (reporting only)
+- Any public dark web reporting from reputable third‑party researchers (reporting only)
+- Any ransomware trackers (public), breach aggregation blogs or sites, independent OSINT dashboards
+- Any researcher‑reported dark‑web findings and public summaries of onion‑site postings
+- Any public CTI writeups from credible, non‑marketing sources
+- Any X / Mastodon researcher threads, public Telegram channels, OSINT aggregators, and additional blogs or sources unless they are published or cited by one of the sources above
+
+EXPLICITLY EXCLUDED SOURCES & TOPICS:
+- Public vulnerability databases or advisories (NVD, CVE feeds, vendor CVEs)
+- Actively exploited vulnerabilities
+- Zero‑day vulnerabilities
+- Opinion pieces without evidence
+
+TIME RULE:
+All time references must be interpreted using IST (UTC +05:30).
+ONLY include items published in the LAST 24 HOURS (IST).
+
+==================================================
+VENDORS IN SCOPE (FIXED – DO NOT MODIFY)
+==================================================
+<>
+==================================================
+
+OBJECTIVE:
+Search the open web for every possible and all available public sources for the LAST 24 HOURS (IST) and identify any cyber‑threat activity or intel that explicitly matches ANY vendor listed above.
+
+MATCHING RULES:
+- Match on exact vendor name OR listed domain
+- Alias usage must align with list context
+- Generic names REQUIRE domain or strong contextual confirmation
+
+INCLUDE:
+Vendor-by-vendor validation for all below:
+- Official vendor security / fraud / incident pages
+- Public vendor incident disclosures
+- Ransomware or extortion claims
+- Data breaches or leaks
+- Supply‑chain compromises
+- Public dark‑web reporting
+- APT / nation‑state activity
+- Hacktivist campaigns
+- Malware campaigns
+- Phishing / brand impersonation, phishing campaigns using logos, domains, sender names
+- AI‑enabled impersonation or fraud
+- Brand impersonation scams, fraud campaigns abusing brand identity
+- Law‑enforcement or regulator warnings tied to the brand
+==================================================
+OUTPUT FORMAT (STRICT)
+==================================================
+
+=== Third‑Party / Supply Chain / Material Vendor Intelligence Update ===
+Time window reviewed: last <> hours (IST)
+(From Day, Date, Time → To Day, Date, Time IST)
+Vendors in scope: <>
+Total alerts found: 
+
+SECTION 1 – VERIFIED / HIGH-CONFIDENCE ALERTS
+
+- Vendor (from list):
+- Match term:
+- Threat type:
+- Threat actor (if stated):
+- Source:
+- Date published (IST):
+- Link:
